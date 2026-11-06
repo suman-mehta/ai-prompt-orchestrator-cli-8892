@@ -1,0 +1,14 @@
+{
+  "name": "ai-prompt-orchestrator-cli",
+  "version": "1.0.0",
+  "description": "Advanced AI Prompt Orchestrator & Local Context CLI Tool",
+  "type": "module",
+  "bin": {
+    "ai-prompt-orchestrator": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
